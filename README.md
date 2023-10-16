@@ -1,3 +1,3 @@
-<h1>TypeScript React Gym</h1>
+<h1>TypeScript/ React Gym</h1>
 
 <p>Welcome to the Evogym website, your gateway to an exceptional fitness journey. Our world-class gym offers unrivaled training, fitness classes, and state-of-the-art facilities, all designed to help you achieve your dream body. With millions of happy members getting fit, we provide the care and expertise you need to reach your ultimate fitness goals. Explore our diverse range of classes, including Weight Training, Yoga, Ab Core, Adventure, Fitness, and Training classes. Join now to get in shape and become a part of our fitness community. Contact us for more information, and let's embark on this fitness adventure together.</p>
