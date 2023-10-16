@@ -1,9 +1,3 @@
 <h1>TypeScript React Gym</h1>
 
-<p>Welcome to the TypeScript React Gym repository, your ultimate resource for building robust and feature-rich web applications for the fitness and health industry. Whether you're an experienced developer or just getting started, this repository is your one-stop solution for creating responsive and dynamic gym-related web applications using TypeScript and React.</p>
-
-**Key Features**
-
-<p>TypeScript and React Integration: Leverage the power of TypeScript's static typing and React's component-based architecture to build scalable and maintainable gym applications.
-Responsive Design: Create web applications that adapt seamlessly to various screen sizes, ensuring an optimal user experience on both desktop and mobile devices.
-Component Library: Jumpstart your project with a library of pre-designed React components for common gym-related features, such as exercise tracking, membership management, and class scheduling.</p>
+<p>Welcome to the Evogym website, your gateway to an exceptional fitness journey. Our world-class gym offers unrivaled training, fitness classes, and state-of-the-art facilities, all designed to help you achieve your dream body. With millions of happy members getting fit, we provide the care and expertise you need to reach your ultimate fitness goals. Explore our diverse range of classes, including Weight Training, Yoga, Ab Core, Adventure, Fitness, and Training classes. Join now to get in shape and become a part of our fitness community. Contact us for more information, and let's embark on this fitness adventure together.</p>
